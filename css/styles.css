@@ -1,6 +1,6 @@
 body {
   padding: 100px 30px 30px 30px; 
-  background : url(https://smartbe.be/ressources/charte/logos/smart-logo.svg)10px 10px;
+  background : url(../static/smart-logo.svg)10px 10px;
   background-size: 180px;
   background-repeat:no-repeat;
   font-family: Arial, helvetica, sans-serif;
