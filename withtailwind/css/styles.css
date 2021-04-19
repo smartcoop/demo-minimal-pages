@@ -16,6 +16,10 @@ input[type=submit] {
     color: #fff;
 }
 
+.form-section {
+    margin: 10px 5px;
+}
+
 h1 {
     color: #ff4054
 }
