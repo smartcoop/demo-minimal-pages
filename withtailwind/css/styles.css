@@ -9,11 +9,27 @@ body {
 input {
     border: 1px solid #ff4054;
     border-radius: 3px;
+    padding: 2px 6px;
 }
 
 input[type=submit] {
     background: #ff4054;
     color: #fff;
+    padding: 2px 6px;
+}
+
+input[type=file] {
+    border: none;
+}
+
+input {
+    border: 1px solid #ff4054;
+    border-radius: 3px;
+}
+
+textarea {
+    border: 1px solid #ff4054;
+    border-radius: 3px;
 }
 
 .form-section {
