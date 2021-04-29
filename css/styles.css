@@ -1,26 +1,22 @@
 body {
-  padding: 100px 30px 30px 30px; 
   background : url(../static/smart-logo.svg)10px 10px;
   background-size: 180px;
   background-repeat:no-repeat;
   font-family: Arial, helvetica, sans-serif;
  }
  input{
-	 border:1px solid #ff4054;
-	 border-radius:3px;
+	border:1px solid #ff4054;
+	border-radius:3px;
  }
-input[type=submit]{
+button{
 	background: #ff4054; 
 	color :#fff; 
  }
 h1{
-	color:#ff4054
+	color:#ff4054 !important;
  }
 .monospace{
-	font-family: monospace;
-	margin-top :30px;
-	padding :15px;	
+	font-family: monospace;	
 	background: #000;
     color: #fff;
-	width:60%;
  }
